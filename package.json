@@ -16,7 +16,7 @@
   "homepage": "https://github.com/pmuens/ACOM-Yield-Farm#readme",
   "proxy": "http://127.0.0.1",
   "dependencies": {
-    "@openzeppelin/contracts": "^3.3.0",
+    "@openzeppelin/contracts": "^5.0.2",
     "@truffle/hdwallet-provider": "^1.2.1",
     "babel-polyfill": "6.26.0",
     "babel-preset-env": "1.7.0",
